@@ -5,4 +5,4 @@ if litter <=5:
 elif litter == 6:
   print("6 is manageable")
 else:
-  print("wow!")
+  print("Wow!")
